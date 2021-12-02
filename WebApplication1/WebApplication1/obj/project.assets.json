@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\MyOwnRepos\\asp.net-in-action\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
-      "projectName": "WebApplication1",
-      "projectPath": "C:\\repos\\MyOwnRepos\\asp.net-in-action\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+      "projectUniqueName": "C:\\repos\\MyOwnRepos\\asp.net-in-action\\WebApplication1\\WebApplication1\\Chapter-02.csproj",
+      "projectName": "Chapter-02",
+      "projectPath": "C:\\repos\\MyOwnRepos\\asp.net-in-action\\WebApplication1\\WebApplication1\\Chapter-02.csproj",
       "packagesPath": "C:\\Users\\hcn\\.nuget\\packages\\",
       "outputPath": "C:\\repos\\MyOwnRepos\\asp.net-in-action\\WebApplication1\\WebApplication1\\obj\\",
       "projectStyle": "PackageReference",
